@@ -1,6 +1,12 @@
-# React essiantials project
+# React Project/Tasks Managment website
 
-A small project to display core concepts of React library
+A small project:
+To create/delete Projects and Tasks
+
+Built using react:
+useState, useRef, forwardRef, useImperativeHandle
+And react-dom:
+createPortal
 
 ## Run Locally
 
